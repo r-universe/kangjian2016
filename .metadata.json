@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BayesGPfit",
+    "oncran": true
+  },
+  {
+    "package": "brainKCCA",
+    "oncran": true
+  }
+]
